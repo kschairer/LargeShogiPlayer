@@ -1,0 +1,150 @@
+﻿  AngryBoar.cpp
+  Bishop.cpp
+  BlindTiger.cpp
+  Board.cpp
+Board.cpp(83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(128): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(141): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(151): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(155): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(159): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(167): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(169): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(177): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(179): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(180): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(183): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(205): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(207): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(208): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(211): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(232): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(234): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(235): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(238): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(265): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(267): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(269): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(280): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(290): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(292): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(294): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(298): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(308): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(310): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(312): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(323): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(333): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(335): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(337): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(341): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(349): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(351): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(352): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(355): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(359): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(361): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(362): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(365): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(387): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(389): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(390): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(393): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(414): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(416): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(417): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(420): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(451): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(453): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(455): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(460): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(464): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(466): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(468): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(473): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(485): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(491): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(506): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(508): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(510): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(515): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(519): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(521): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(523): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Board.cpp(528): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CatSword.cpp
+  ChuBoard.cpp
+  ChuShoBoard.cpp
+  Copper.cpp
+  DaiBoard.cpp
+  DragonHorse.cpp
+  DragonKing.cpp
+  DrunkElephant.cpp
+  EmptyPiece.cpp
+  EvilWolf.cpp
+  FerociousLeopard.cpp
+  FlyingDragon.cpp
+  FlyingOx.cpp
+  FlyingStag.cpp
+  FreeBoar.cpp
+  Game.cpp
+Game.cpp(1021): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+Game.cpp(1022): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+Game.cpp(1029): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+Game.cpp(1034): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+Game.cpp(1068): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Compiling...
+  GoBetween.cpp
+  Gold.cpp
+  HornedFalcon.cpp
+  Iron.cpp
+  King.cpp
+  Kirin.cpp
+  Knight.cpp
+  Lance.cpp
+  Lion.cpp
+  Main.cpp
+  Pawn.cpp
+  Pheonix.cpp
+  Piece.cpp
+  PieceDecorator.cpp
+  PieceFactory.cpp
+  Prince.cpp
+  Queen.cpp
+  ReverseChariot.cpp
+  Rook.cpp
+  SideMover.cpp
+  Compiling...
+  Silver.cpp
+  SoaringEagle.cpp
+  Space.cpp
+Space.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Space.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Space.cpp(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Space.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Space.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Stone.cpp
+  VerticalMover.cpp
+  ViolentOx.cpp
+  Whale.cpp
+  WhiteHorse.cpp
+     Creating library C:\Users\Keith\Documents\GameProgramming\LargeShogiPlayer\Release\LargeShogiPlayer.lib and object C:\Users\Keith\Documents\GameProgramming\LargeShogiPlayer\Release\LargeShogiPlayer.exp
+  Generating code
+  3 of 660 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LargeShogiPlayer.vcxproj -> C:\Users\Keith\Documents\GameProgramming\LargeShogiPlayer\Release\LargeShogiPlayer.exe
+  LargeShogiPlayer.vcxproj -> C:\Users\Keith\Documents\GameProgramming\LargeShogiPlayer\Release\LargeShogiPlayer.pdb (Full PDB)

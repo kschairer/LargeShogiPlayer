@@ -1,0 +1,8 @@
+﻿  Game.cpp
+c:\users\keith\documents\gameprogramming\largeshogiplayer\largeshogiplayer\game.cpp(1020): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\keith\documents\gameprogramming\largeshogiplayer\largeshogiplayer\game.cpp(1021): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\keith\documents\gameprogramming\largeshogiplayer\largeshogiplayer\game.cpp(1028): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\keith\documents\gameprogramming\largeshogiplayer\largeshogiplayer\game.cpp(1033): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\keith\documents\gameprogramming\largeshogiplayer\largeshogiplayer\game.cpp(1067): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  LargeShogiPlayer.vcxproj -> C:\Users\Keith\Documents\GameProgramming\LargeShogiPlayer\Debug\LargeShogiPlayer.exe
+  LargeShogiPlayer.vcxproj -> C:\Users\Keith\Documents\GameProgramming\LargeShogiPlayer\Debug\LargeShogiPlayer.pdb (Full PDB)
