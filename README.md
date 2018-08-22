@@ -4,6 +4,8 @@ This is the original code; horrendouns number of files, right?
 
 Double click LargeShogiPlayer.exe inside the main folder to play the game.
 
+Code requires SFML 2.3 to compile
+
 Features:
 
   3 Shogi variants
